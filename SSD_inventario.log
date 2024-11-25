@@ -1,0 +1,36 @@
+WARNING:2024-11-25 20:42:09
+WARNING:Inventario:
+           Variables                                        Valor
+0         price p_1                                    2.5 euros
+1         price p_2                                    3.5 euros
+2           P_1_max                                         1000
+3           P_2_max                                         1500
+4          P_1_init                                           70
+5          P_2_init                                           70
+6          Llegadas                                 Poisson(1.5)
+7       Demand size                                 [1, 2, 3, 4]
+8        P_1 prob()                         [0.3, 0.4, 0.2, 0.1]
+9        P_2 prob()                         [0.2, 0.2, 0.4, 0.2]
+10       Order_cost                                          100
+11         Lead(mu)                                     48 hours
+12      Lead(sigma)                                    3.5 hours
+13           H_cost                                0.0002 *un *t
+14    Order_cost_p1    {'under': 1, 'above': 0.75, 'limit': 600}
+15    Order_cost_p2  {'under': 1.5, 'above': 1.25, 'limit': 800}
+16    Order_penalty                                       0.03 %
+17  Tiempo simulado                                   1440 horas
+WARNING:===== start run() 2024-11-25 20:42:09
+WARNING:Resultados: 
+            Variables     Valor
+0            Holding    535.58
+1        Satisfechos   1595.00
+2     No satisfechos    235.00
+3  Tiempo en cero p1    173.56
+4  Tiempo en cero p2    168.65
+5      perdida en p1    727.50
+6      perdida en p2    962.50
+7          Beneficio  12184.00
+8         p1_Benefit   5012.50
+9         p2_Benefit   7171.50
+ERROR:[np.float64(12184.0)]
+WARNING:time: 1.8253 s

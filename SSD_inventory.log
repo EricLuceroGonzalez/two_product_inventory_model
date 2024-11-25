@@ -1,0 +1,42 @@
+WARNING:===== =====       run()
+WARNING:self.P_capacity=50,self.level=28, order=22
+WARNING:self.P_capacity=50,self.level=30.0, order=20.0
+WARNING:self.P_capacity=50,self.level=28.0, order=22.0
+WARNING:self.P_capacity=50,self.level=30.0, order=20.0
+WARNING:self.P_capacity=50,self.level=30.0, order=20.0
+WARNING:self.P_capacity=50,self.level=30.0, order=20.0
+WARNING:self.P_capacity=50,self.level=30.0, order=20.0
+WARNING:self.P_capacity=50,self.level=29.0, order=21.0
+WARNING:self.P_capacity=50,self.level=26.5, order=23.5
+WARNING:self.P_capacity=50,self.level=29.75, order=20.25
+WARNING:self.P_capacity=50,self.level=26.125, order=23.875
+WARNING:self.P_capacity=50,self.level=28.9375, order=21.0625
+WARNING:self.P_capacity=50,self.level=29.53125, order=20.46875
+WARNING:self.P_capacity=50,self.level=29.234375, order=20.765625
+WARNING:self.P_capacity=50,self.level=27.3828125, order=22.6171875
+WARNING:self.P_capacity=50,self.level=29.30859375, order=20.69140625
+WARNING:self.P_capacity=50,self.level=29.345703125, order=20.654296875
+WARNING:self.P_capacity=50,self.level=26.3271484375, order=23.6728515625
+WARNING:self.P_capacity=50,self.level=28.83642578125, order=21.16357421875
+WARNING:self.P_capacity=50,self.level=29.581787109375, order=20.418212890625
+WARNING:self.P_capacity=50,self.level=28.2091064453125, order=21.7908935546875
+WARNING:self.P_capacity=50,self.level=28.89544677734375, order=21.10455322265625
+WARNING:self.P_capacity=50,self.level=27.552276611328125, order=22.447723388671875
+WARNING:self.P_capacity=50,self.level=28.223861694335938, order=21.776138305664062
+WARNING:self.P_capacity=50,self.level=27.88806915283203, order=22.11193084716797
+WARNING:self.P_capacity=50,self.level=27.055965423583984, order=22.944034576416016
+WARNING:self.P_capacity=50,self.level=28.472017288208008, order=21.527982711791992
+WARNING:self.P_capacity=50,self.level=28.763991355895996, order=21.236008644104004
+WARNING:self.P_capacity=50,self.level=28.618004322052002, order=21.381995677947998
+WARNING:self.P_capacity=50,self.level=28.690997838974, order=21.309002161026
+WARNING:self.P_capacity=50,self.level=27.654501080513, order=22.345498919487
+WARNING:self.P_capacity=50,self.level=29.1727494597435, order=20.8272505402565
+WARNING:self.P_capacity=50,self.level=28.41362527012825, order=21.58637472987175
+WARNING:self.P_capacity=50,self.level=28.793187364935875, order=21.206812635064125
+WARNING:self.P_capacity=50,self.level=29.603406317532063, order=20.396593682467937
+WARNING:self.P_capacity=50,self.level=29.19829684123397, order=20.80170315876603
+WARNING:self.P_capacity=50,self.level=29.400851579383016, order=20.599148420616984
+WARNING:******* (T=720, t=731.3497802512413) t > T - counter = 1494
+WARNING:{'beneficio': 4267.221797, 'holding_cost': -2504146.8349, 'level': np.float64(46.29957421030849), 'reorder_point': 30}
+WARNING:{'t': 731.3498, 'incoming': 0, 'tiempo_shortage': 146.6442250293804, 'c_not_sat': 723, 'c_sat': 735}
+WARNING:[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25]
